@@ -1,0 +1,8 @@
+com\qa\hubspot\pages\ContactsPage.class
+com\qa\hubspot\pages\LoginPage.class
+PracticePOM2020\PracticePOM2020\App.class
+com\qa\hubspot\utils\ExcelUtils.class
+com\qa\hubspot\BasePage\BasePage.class
+com\qa\hubspot\pages\HomePage.class
+com\qa\hubspot\utils\JavaUtils.class
+com\qa\hubspot\utils\ElementUtils.class
